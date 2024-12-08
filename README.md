@@ -9,27 +9,7 @@
 </a> 
 
 ## 🥇 Technical Skills:
-<div>
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-	<a href="#">
-    <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-  </div>
+[![My Skills]([https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua](https://skillicons.dev/icons?i=cpp,c,cs,java,flutter,dart,python,javascript,typescript,lua,nodejs,py,react,laravel))](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics  
