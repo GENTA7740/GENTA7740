@@ -3,7 +3,7 @@
  <h3>Hi 👋, I'm Genta </h3>
 
 
- ## 💬 Chat with us ib Discord:
+ ## 💬 Chat with us on Discord:
 <a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
  <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
 </a> 
