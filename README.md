@@ -4,7 +4,9 @@
 
 
  ## 💬 Chat with us ib Discord:
- <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" href="https://discord.gg/JTM9b6XR3A"/>
+<a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
+ <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
+</a> 
 
 ## 🥇 Technical Skills:
 <div>
