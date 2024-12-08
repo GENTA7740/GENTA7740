@@ -60,4 +60,4 @@ Chat with us on Discord!
 
 
  ## 💬 Chat with us.
- <iframe class="hidden xl:block rounded-xl" src="https://discord.com/widget?id=1056851311439642675&amp;theme=dark" width="350" height="400" frameBorder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
