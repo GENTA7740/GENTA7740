@@ -7,6 +7,7 @@
 <a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
  <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
 </a> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🥇 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,flutter,dart,python,javascript,typescript,lua,nodejs,py,react,laravel)](https://skillicons.dev)
