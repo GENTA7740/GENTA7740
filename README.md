@@ -7,6 +7,9 @@
 <a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
  <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
 </a> 
+<a href="https://discord.gg/EjBGkcmH8t" style="margin: 10px;">
+ <img src="https://discord.com/api/guilds/1490312087577034842/widget.png?style=banner4" alt="Discord Banner" />
+</a> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🥇 Technical Skills:
